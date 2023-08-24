@@ -2,9 +2,10 @@
 
 ![](lander_sprite.png)
 
+Canvas Size: 8 x 8 
 ---
 
-## Step 1
+## Step 1: Display Image
 
 ### Pg 0
 
