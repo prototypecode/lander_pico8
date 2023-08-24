@@ -1,5 +1,9 @@
 # Lander Pico-8
 
+Find Steps:
+- Ctrl + F
+- 'step'
+
 [Pico-8 Edu Edition](https://www.pico-8-edu.com/)
 
 ![](lander_sprite.png)
