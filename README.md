@@ -1,5 +1,7 @@
 # lander_pico8
 
+[Pico-8 Edu Edition](https://www.pico-8-edu.com/)
+
 ![](lander_sprite.png)
 
 Canvas Size: 8 x 8 
