@@ -2,6 +2,12 @@
 
 ![](lander_sprite.png)
 
+---
+
+## Step 1
+
+### Pg 0
+
 ```lua
 function _init()
 	make_player()
@@ -30,3 +36,5 @@ function draw_player()
 	spr(p.sprite, p.x, p.y)
 end
 ```
+
+---
