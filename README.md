@@ -87,6 +87,15 @@ end
 
 ## Step 3: Add Thrust
 
+Sound Editor:
+- < 00 >
+- SPD: 06
+- LOOP: 00 00
+- PITCH: 6 NOISE
+	- NOTE 0: C1
+- VOLUME: 2/7
+ 
+
 ### Pg 0 (Revised)
 
 ```lua
