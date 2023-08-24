@@ -1,4 +1,4 @@
-# lander_pico8
+# Lander Pico-8
 
 [Pico-8 Edu Edition](https://www.pico-8-edu.com/)
 
